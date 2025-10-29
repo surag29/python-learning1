@@ -1,0 +1,5 @@
+f = open("myfile.txt","w")
+f.write("hello world\n")
+f.write("this is my first file handling practise\n")
+f.write("we are learning python file io operations\n")
+f.close()
