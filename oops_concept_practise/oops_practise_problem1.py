@@ -1,3 +1,7 @@
+
+''''1. Create a class “Programmer” for storing information of few programmers 
+working at Microsoft. '''
+
 class programmer:
     company =  "microsoft"
 
